@@ -1,5 +1,5 @@
-### ARC Discovery Project 
-### Deep Learning Architecture with Context Adaptive Features for Image Parsing
+### Class Probability-based Visual and Contextual Feature Integration for Image Parsing 
+### International Conference on Image and Vision Computing New Zealand (IVCNZ) 2020
 
 _____________________________________________________________________________________________
 
