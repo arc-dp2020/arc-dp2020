@@ -8,7 +8,7 @@ ________________________________________________________________________________
 ## Datasets
 
 The datasets usedin this paper can also be downloaded from the links below 
-2. [Stanford Backgrodund Dataset](http://dags.stanford.edu/projects/scenedataset.html)
+1. [CamVid Database](http://mi.eng.cam.ac.uk/research/projects/VideoRec/)
 
 
 ## Notes on Usage
