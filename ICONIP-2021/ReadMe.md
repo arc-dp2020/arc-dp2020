@@ -8,6 +8,7 @@ ________________________________________________________________________________
 ## Datasets
 
 The datasets usedin this paper can also be downloaded from the links below 
+1. [Camvid Database](http://mi.eng.cam.ac.uk/research/projects/VideoRec/)
 2. [Stanford Backgrodund Dataset](http://dags.stanford.edu/projects/scenedataset.html)
 
 
@@ -22,11 +23,13 @@ SuperPixelData.m
 If you find codes and results useful in your research, please consider citing:
 
 
-    @inproceedings{9290686,
-	Author = {Azam, Basim and Mandal, Ranju and Zhang, Ligang and Verma, Brijesh},
-	Title = {Class Probability-based Visual and Contextual Feature Integration for Image Parsing},
-	Booktitle  = {2020 35th International Conference on Image and Vision Computing New Zealand (IVCNZ)},
-	Year = {2020}
+    @inproceedings{10.1007/978-3-030-92270-2_25,
+	Author = {Mandal, Ranju and Azam, Basim and Verma, Brijesh},
+	Title = {Context-Based Deep Learning Architecture with Optimal Integration Layer for Image Parsing},
+	Booktitle  = {Neural Information Processing},
+	Publisher = {Springer International Publishing},
+	Pages= {285-296},
+	Year = {2021}
     }
 
  
