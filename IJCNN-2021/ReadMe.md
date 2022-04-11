@@ -1,5 +1,5 @@
-### ARC Discovery Project 
-### Deep Learning Architecture with Context Adaptive Features for Image Parsing
+### Relationship Aware Context Adaptive Feature Selection Framework for Image Parsing
+### International Joint Conference on Neural Networks (IJCNN) 2021
 
 _____________________________________________________________________________________________
 
