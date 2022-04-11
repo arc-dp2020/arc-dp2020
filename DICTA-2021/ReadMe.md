@@ -1,5 +1,5 @@
-### ARC Discovery Project 
-### Deep Learning Architecture with Context Adaptive Features for Image Parsing
+### Fully Convolutional Neural Network with Relation Aware Context Information for Image Parsing
+### International Conference on Digital Image Computing: Techniques and Applications (DICTA) 2021 
 
 _____________________________________________________________________________________________
 
