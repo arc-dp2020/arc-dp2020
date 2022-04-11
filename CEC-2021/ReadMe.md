@@ -1,5 +1,5 @@
-### ARC Discovery Project 
-### Deep Learning Architecture with Context Adaptive Features for Image Parsing
+### Deep Learning Model with GA-based Visual Feature Selection and Context Integration
+### IEEE Congress on Evolutionary Computation (CEC)  2021
 
 _____________________________________________________________________________________________
 
