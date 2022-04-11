@@ -22,12 +22,13 @@ SuperPixelData.m
 If you find codes and results useful in your research, please consider citing:
 
 
-    @inproceedings{9290686,
+    @inproceedings{9534310,
 	Author = {Azam, Basim and Mandal, Ranju and Zhang, Ligang and Verma, Brijesh},
-	Title = {Class Probability-based Visual and Contextual Feature Integration for Image Parsing},
-	Booktitle  = {2020 35th International Conference on Image and Vision Computing New Zealand (IVCNZ)},
-	Year = {2020}
+	Title = {Relationship Aware Context Adaptive Feature Selection Framework for Image Parsing},
+	Booktitle  = {2021 International Joint Conference on Neural Networks (IJCNN)},
+	Year = {2021}
     }
+    
 
  
 ## Contributions / Queries 
