@@ -1,0 +1,22 @@
+#The following functions are modified to have GA-based feature selection
+
+
+1. 
+function segProbMap = getSupClassifierPro(matFold,segFeat,SelFeaIdx,nSeg,numClass,selClf,sta,iCV)
+function evaTestImg(matFold,allImgList,testImgIdx,numClass,selClf,selInt,selDB,SelFeaIdx,sumLocPriorMap,adjSuperPixelOcc,coef,blockrow,sta,iCV)
+
+Modification: 
+testFeat = segFeat(:,SelFeaIdx(i,:))==> replaced by new GA based feature selection code as follows
+
+if exist(([matFold 'SelFeatIndex_CV' num2str(iCV) '_' num2str(i) '.mat']),'file')
+	load([matFold 'SelFeatIndex_CV' num2str(iCV) '_' num2str(i) '.mat'],'Sf','curve');
+	testFeat = segFeat(:,Sf);
+else
+	fprintf("SelFeatIndex not found for\n" );
+	quit;
+end
+
+
+2.
+trainClassiferV2GA() fuction replaced trainClassifer() funcition
+
